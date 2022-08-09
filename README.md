@@ -39,7 +39,7 @@ I am always enthusiastic😍 towards the trending technologies.
 * Financial books such as **<a href="https://clucth.code.blog/2022/06/18/insight-summary-about-psychology-of-money/" target="_blank">😎The Psychology of Money</a>**
  
  <div id="badges">
-  <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/mohammed-shahid-473327148/">
+  <a href="https://www.linkedin.com/in/mohammed-shahid-473327148/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
