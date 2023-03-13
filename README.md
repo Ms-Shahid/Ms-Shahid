@@ -1,30 +1,22 @@
 ## About Me 👋
 
-> **Mohammed Shahid** 
- <img src=https://user-images.githubusercontent.com/55689725/182031176-d65eceb3-3da1-4a75-9b0a-fc22b9543eff.png width="50" height="50" />
+<div align = "center">
+ <b> I'm Shahid 😎</b>
+ <hr>
+</div>
 
-I am Mohammed Shahid a API developer & an Automation Engineer, my daily work is to translates business/users scenarios into software features & automate them.
-I am always enthusiastic😍 towards the trending technologies.
+  A Full Stack Automation Engineer, my day begins with a cup of coffee 🍵 as I prepare to dive into the technical design document & begin with effective collaboration with my team to ensure to cover all edge cases and provide the necessary confidence for the business to deploy our changes into production. <br>
+ My role involves identifying potential risks, executing thorough tests, and providing feedback to the team, to ensure that our products meet the highest quality standards.
 
-* 🙂In the year 2020 I learned API development using Java & Springboot, then worked on the full backend development of the project of hotel management system.
-* 🤑Then I moved to learning the frontend technologies like Javascript & React-JS to launch one of the Full stack project integrated with frontend, backend & database. 
-   you can check out this project here <a href="https://github.com/Ms-Shahid/Hotel-Booking-Management" target="_blank">Hotel Management System</a>
-* In the start of the year 2022, I learned Python for AI & Machine Learning.
-* 🌱 I am currently driving deep into the world of [Java][1], [Python][2], [Data Science][3], [Data Structures & Algorithms using Java][4] 🎢.
-* 👯 Also I am looking to collaborate on the Open source project here on [Github](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
- [1]: https://app.pluralsight.com/paths/skills/java-language-fundamentals                                              "Java"
- [2]: https://www.udemy.com/course/100-days-of-code/                                                                   "Python"
- [3]: https://www.scaler.com/data-science-course/                                                                      "Data Science"
- [4]: https://www.udemy.com/share/103J3E3@xeHMrJdHoIrzLWMhPbEiZKVKJB1oE2gpV_RwSBoDvIQ50vGd1gYrBYFVmtBiisbi/            "DSA"                                                    
 ## Skills 🎊🎉
-| Technology | Frameworks | Tools
-| --- | --- | --- |
-| JAVA | SpringBoot | Intellij
-| Python | .. | Vscode
-| Web Services | Rest API | Postman & Intellij
 
- 
+| Programming languages |   | Framework |
+|---------|---|---------| 
+| Java |   | Web-Services & Rest-API | 
+| Python |   | Selenium |
+| Javascript | | Appium |
+
 ## Achivements 🥈🏆
 * Certified Java Developer 🏅
 * Organizational Certified Automation Practioner 🥇
@@ -32,16 +24,33 @@ I am always enthusiastic😍 towards the trending technologies.
 
 
 ## Other things about me
-> Drive deep in books | self development | technical
-* productivity such as **Atomic Habits** 🥰
-* Mindset such as **The power of your subconscious mind**😉
-* Financial books such as **<a href="https://medium.com/@ms2406shahid/insight-summary-about-psychology-of-money-4e651e2ee5cc" target="_blank">😎The Psychology of Money</a>**
+> I love to experience the depth of books especially non-fictions & self-development
+
+* deep work philisophies **<a href="https://medium.com/@ms2406shahid/deep-work-philosophies-4724b9ecf024" target="_blank">Deep Work</a>**
+* Summary of **<a href="https://medium.com/@ms2406shahid/insight-summary-about-psychology-of-money-4e651e2ee5cc" target="_blank">The Psychology of Money</a>**
  
+### Social media connects
+<hr>
  <div id="badges">
-  <a href="https://www.linkedin.com/in/mohammed-shahid-473327148/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ <a href="https://github.com/Ms-Shahid">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ </a>
+ <br>
+ <br>
+ <a href="https://www.linkedin.com/in/mohammed-shahid-473327148/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <br>
+ <br>
+ <a href="https://medium.com/@ms2406shahid">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+ </a>
+ <br>
+ <br>
+ <a href="https://dev.to/msshahid">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Tech-Blog"/>
+ </a>
+ <br>
+ <br>
 </div>
-<a href="https://medium.com/@ms2406shahid">
-    <img src="https://img.shields.io/badge/clutch-blog-orange" alt="Blog"/>
-</a>
+
