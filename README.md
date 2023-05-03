@@ -1,7 +1,7 @@
-## About Me 👋
+## Hey 👋
 
 <div align = "center">
- <b> I'm Shahid 😎</b>
+ <b style="color:red;">I'm Shahid 😎</b>
  <hr>
 </div>
 
