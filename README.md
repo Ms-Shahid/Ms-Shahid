@@ -1,28 +1,48 @@
-## Hey 👋
+## Hey, Welcome 👋
+
+> "Step into the universe where coding is a poetry of logic, and each line crafts a verse in the grand symphony of technology."
+
 
 <div align = "center">
- <b style="color:red;">I'm Shahid 😎</b>
- <hr>
+ <h1> I'm Shahid </h1>
+
 </div>
 
-  A Full Stack Automation Engineer, my day begins with a cup of coffee 🍵 as I prepare to dive into the technical design document & begin with effective collaboration with my team to ensure to cover all edge cases and provide the necessary confidence for the business to deploy our changes into production. <br>
- My role involves identifying potential risks, executing thorough tests, and providing feedback to the team, to ensure that our products meet the highest quality standards.
+ As a Software Developer, my day kicks off with a ☕️ and the anticipation of diving into the world of coding. I engage in lively discussions about API technical design docs, where I immerse myself in the process of understanding, designing, coding, and meticulously reviewing fixes, bugs, and exciting features set to be implemented. 🚀💻
 
+Let's turn coffee into code and ideas into innovation! 🌟
 
 ## Skills 🎊🎉
 
-| Programming languages |   | Framework |
-|---------|---|---------| 
-| Java |   | Web-Services & Rest-API | 
-| Python |   | Selenium |
-| Javascript | | Appium |
+| Programming languages |
+|---------| 
+| Java |   
+| Python |  
+| Javascript |
+| SQL |
+
+| Frameworks |
+|---------|
+| SpringBoot & Spring MVC |
+| React js |
+
+## Projects 
+| Name | Tech | link |
+|-----| ------|------|
+| Wheather APP | HTML, CSS, JS | [Wheather APP](https://github.com/Ms-Shahid/weather-app) |
+| Pet-Shelter-APP | HTML, JS, Vue.js | [Pet-Shelter-React-App](https://github.com/Ms-Shahid/Pet-Shelter-React-App) |
+| Hotel Management System | Java, SpringBoot, React, Js | [Hotel Management System](https://github.com/Ms-Shahid/Hotel-Booking-Management) |
+| Pet Clinic Web App | Java, SpringBoot, React, Js| [Pet Clinic Web App](https://github.com/Ms-Shahid/jgsu-spring-petclinic) |
+| Connect 4 Game | Java, Java FX | [Connect 4 ](https://github.com/Ms-Shahid/Connect4Game) |
+| Book Management System | Java, SpringBoot, Rest API | [Book Management System](https://github.com/Ms-Shahid/BookManagementSystem) |
+
 
 ## Achivements 🥈🏆
 * Certified Java Developer 🏅
-* Organizational Certified Automation Practioner 🥇
+* Innovative Star of the year | 2023 🥇
 * Organizational Certified Leadership Practioner 🏆
 
-
+<hr>
 ## Other things about me
 > I love to experience the depth of books especially non-fictions & self-development
 
