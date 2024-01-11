@@ -44,7 +44,8 @@ Let's turn coffee into code and ideas into innovation! 🌟
 * Organizational Certified Leadership Practioner 🏆
 
 <hr>
-## Other things about me
+
+### Other things about me
 > I love to experience the depth of books especially non-fictions & self-development
 
 * deep work philisophies **<a href="https://medium.com/@ms2406shahid/deep-work-philosophies-4724b9ecf024" target="_blank">Deep Work</a>**
