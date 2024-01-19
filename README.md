@@ -17,8 +17,8 @@ Let's turn coffee into code and ideas into innovation! 🌟
 
 | Programming languages |
 |---------| 
-| Java |   
-| Python |  
+| Java 17+ |   
+| Python 3 |  
 | Javascript |
 | SQL |
 
@@ -37,21 +37,15 @@ Let's turn coffee into code and ideas into innovation! 🌟
 | Connect 4 Game | Java, Java FX | [Connect 4 ](https://github.com/Ms-Shahid/Connect4Game) |
 | Book Management System | Java, SpringBoot, Rest API | [Book Management System](https://github.com/Ms-Shahid/BookManagementSystem) |
 
-
-## Achivements 🥈🏆
-* Certified Java Developer 🏅
-* Innovative Star of the year | 2023 🥇
-* Organizational Certified Leadership Practioner 🏆
-
 <hr>
 
-### Other things about me
+### Archived
 > I love to experience the depth of books especially non-fictions & self-development
 
 * deep work philisophies **<a href="https://medium.com/@ms2406shahid/deep-work-philosophies-4724b9ecf024" target="_blank">Deep Work</a>**
 * Summary of **<a href="https://medium.com/@ms2406shahid/insight-summary-about-psychology-of-money-4e651e2ee5cc" target="_blank">The Psychology of Money</a>**
  
-### Social media connects
+### Social connects
 <hr>
  <div id="badges">
  <a href="https://github.com/Ms-Shahid">
