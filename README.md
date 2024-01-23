@@ -17,7 +17,7 @@ Let's turn coffee into code and ideas into innovation! 🌟
 
 | Programming languages |
 |---------| 
-| Java 17+ |   
+| Java 8+ |   
 | Python 3 |  
 | Javascript |
 | SQL |
