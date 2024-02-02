@@ -39,6 +39,39 @@ Let's turn coffee into code and ideas into innovation! 🌟
 
 <hr>
 
+### Achievements 
+********************************************************************************************************************************************************
+#### Performace 
+<div style="display: flex;">
+ <img src = "https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/a112fd89-ae54-4573-b10a-bbdbc821002a" alt="performance" style="width: 40%; height: 20%;">
+</div>
+
+#### Journey 
+<div style="display: flex;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/a317f491-62ad-43a4-ab59-16027569a4fc" alt="Image 1" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/d204f24b-ecce-49da-8cb1-fafa5e329aca" alt="Image 2" style="width: 40%; height: 20%;">
+</div>
+
+#### Streaks
+<div style="display: flex;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/0c0c91a1-4c97-439b-a1ef-bcec4920841b" alt="Image 1" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/5327aace-3cc8-4ddc-8716-6acaba9afb3a" alt="Image 2" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/397d75c5-e779-42e6-8733-26485bfffa07" alt="Image 2" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/572a6d17-47bc-4794-bc0b-7975399af17a" alt="Image 2" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/cd0ece59-a3d6-4981-8c1a-4a1e651f0f8a" alt="Image 2" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/82cc21b3-7215-40d8-8f6b-f2aeea9e6f38" alt="Image 2" style="width: 40%; height: 20%;">
+</div>
+<hr>
+
+#### Skill Certificates
+<div style="diplay: flex;">
+   <a href="https://www.hackerrank.com/certificates/11ac123da2c1"><img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/19b90e4c-7b33-4e3f-8937-ea42f3eb0208" alt = "Java Basics" style="width: 40%; height: 20%;"></a>
+   <a href = "https://www.hackerrank.com/certificates/f28fffd097e1"><img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/b18371c4-fc86-49fd-899f-c5b26b088c9f" alt = "Python Basics" style="width: 40%; height: 20%;"></a>
+   <a href = "https://www.hackerrank.com/certificates/81b7f236b5fe"><img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/de698a7b-b52a-41fc-9dcc-0f6c558731af" alt = "SQL Basics" style="width: 40%; height: 20%;"></a>
+   
+</div>
+<hr>
+
 ### Archived
 > I love to experience the depth of books especially non-fictions & self-development
 
