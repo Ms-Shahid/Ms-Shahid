@@ -44,6 +44,7 @@ Let's turn coffee into code and ideas into innovation! 🌟
 #### Performace 
 <div style="display: flex;">
  <img src = "https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/a112fd89-ae54-4573-b10a-bbdbc821002a" alt="performance" style="width: 40%; height: 20%;">
+ <img src = "https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/47c4103f-0d4f-438e-b06c-e71029574461" alt=" Top 10% " style="width: 40%; height: 20%;">
 </div>
 
 #### Journey 
@@ -60,6 +61,7 @@ Let's turn coffee into code and ideas into innovation! 🌟
   <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/572a6d17-47bc-4794-bc0b-7975399af17a" alt="Image 2" style="width: 40%; height: 20%;">
   <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/cd0ece59-a3d6-4981-8c1a-4a1e651f0f8a" alt="Image 2" style="width: 40%; height: 20%;">
   <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/82cc21b3-7215-40d8-8f6b-f2aeea9e6f38" alt="Image 2" style="width: 40%; height: 20%;">
+  <img src="https://github.com/Ms-Shahid/Ms-Shahid/assets/55689725/d0783f71-684e-47fb-a209-32618012e095" alt="210 days" style="width: 40%; height: 20%;">
 </div>
 <hr>
 
