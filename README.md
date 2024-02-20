@@ -7,7 +7,7 @@
  <h1> I'm Shahid </h1>
 </div>
 
-<a href="https://app.daily.dev/ms_shahid"><img src="https://api.daily.dev/devcards/20b27d615dcd43d2b12588fbf4a8a6c0.png?r=y4u" width="400" alt="Mohammed Shahid's Dev Card"/></a>
+<a href="https://app.daily.dev/ms_shahid"><img src="https://api.daily.dev/devcards/v2/2fo5Y3jCo4umFwJpIxq5y.png?type=wide&r=eqv" width="652" alt="Mohammed Shahid's Dev Card"/></a>
 
  As a Software Developer, my day kicks off with a ☕️ and the anticipation of diving into the world of coding. I engage in lively discussions about API technical design docs, where I immerse myself in the process of understanding, designing, coding, and meticulously reviewing fixes, bugs, and exciting features set to be implemented. 🚀💻
 
