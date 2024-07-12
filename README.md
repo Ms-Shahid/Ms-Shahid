@@ -77,9 +77,18 @@ Let's turn coffee into code and ideas into innovation! 🌟
 ### Archived
 > I love to experience the depth of books especially non-fictions & self-development
 
-* deep work philisophies **<a href="https://medium.com/@ms2406shahid/deep-work-philosophies-4724b9ecf024" target="_blank">Deep Work</a>**
-* Summary of **<a href="https://medium.com/@ms2406shahid/insight-summary-about-psychology-of-money-4e651e2ee5cc" target="_blank">The Psychology of Money</a>**
- 
+* <a href="https://medium.com/@ms2406shahid/deep-work-philosophies-4724b9ecf024" target="_blank">Deep Work</a>
+* <a href="https://medium.com/@ms2406shahid/insight-summary-about-psychology-of-money-4e651e2ee5cc" target="_blank">The Psychology of Money</a>
+* Atomic Habits by *James Clear*
+* The 5 AM club by *Robin Sharma*
+* Hyper Focus by *Chris Bailey*
+* Building a second brain by *Tiago Forte*
+* REWORK by *Jaon Fried & David Heinemeier Hansson*
+* The power of subconscious Mind by *DR. Joseph Murphy*
+* Compound Effect by *Darren Hardy*
+* Do Epic Shit by *Ankur Warikoo*
+* Get Epi Shit by *Ankur Warikoo*
+
 ### Social connects
 <hr>
  <div id="badges">
